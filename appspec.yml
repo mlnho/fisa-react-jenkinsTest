@@ -5,7 +5,7 @@ files:  # 파일 관련 설정
   - source: /  # 배포할 파일 또는 디렉토리의 소스 경로
     destination: /home/ubuntu/fisa-react-jenkinsTest  # 배포될 대상 디렉토리 경로
     overwrite: yes  # 덮어쓰기 여부
-
+file_exists_behavior: OVERWRITE
 permissions:  # 파일 및 디렉토리 권한 설정
   - object: /home/ubuntu/fisa-react-jenkinsTest  # 권한을 설정할 대상 경로
     owner: ubuntu  # 소유자
