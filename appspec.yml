@@ -14,6 +14,6 @@ permissions:  # 파일 및 디렉토리 권한 설정
 
 hooks:  # 배포 단계에서 실행할 스크립트 설정
   AfterInstall:  # 배포 후 실행할 스크립트
-    - location: /home/ubuntu/fisa-react-jenkinsTest/deploy.sh  # 실행할 스크립트의 경로
+    - location: deploy.sh  # 실행할 스크립트의 경로
       timeout: 60  # 실행 제한 시간 (초)
       runas: root  # 스크립트를 실행할 사용자 (root 사용자로 실행)
