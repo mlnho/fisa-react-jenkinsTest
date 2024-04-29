@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          블루그린제발좀!!!!
+          젠킨스로 테스트해봅니다 그냥 블루그린
         </p>
         <a
           className="App-link"
