@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          깃업로드됐지롱
+          이거보이면 jenkins - ecr - ecs 된거임!! 
         </p>
         <a
           className="App-link"
