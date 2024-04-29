@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          이거보이면 jenkins - ecr - ecs 된거임!! 
+          ㅌㅅㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇ
         </p>
         <a
           className="App-link"
