@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          블루그린 ㅍ배포중,,,,
+          블루그린 ㅍ배포중,,,,!!
         </p>
         <a
           className="App-link"
