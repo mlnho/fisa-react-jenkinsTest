@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          블루그린 배포 플리즈
+          이거 되면 진짜 찐 블루그린 완성~~
         </p>
         <a
           className="App-link"
